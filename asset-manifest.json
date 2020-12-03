@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dvirtayeb-github-.io/static/css/main.4e790880.chunk.css",
-    "main.js": "/dvirtayeb-github-.io/static/js/main.5ae2bebe.chunk.js",
-    "main.js.map": "/dvirtayeb-github-.io/static/js/main.5ae2bebe.chunk.js.map",
+    "main.js": "/dvirtayeb-github-.io/static/js/main.b416162d.chunk.js",
+    "main.js.map": "/dvirtayeb-github-.io/static/js/main.b416162d.chunk.js.map",
     "runtime-main.js": "/dvirtayeb-github-.io/static/js/runtime-main.4d60392c.js",
     "runtime-main.js.map": "/dvirtayeb-github-.io/static/js/runtime-main.4d60392c.js.map",
     "static/js/2.34cfb0a5.chunk.js": "/dvirtayeb-github-.io/static/js/2.34cfb0a5.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.4d60392c.js",
     "static/js/2.34cfb0a5.chunk.js",
     "static/css/main.4e790880.chunk.css",
-    "static/js/main.5ae2bebe.chunk.js"
+    "static/js/main.b416162d.chunk.js"
   ]
 }
