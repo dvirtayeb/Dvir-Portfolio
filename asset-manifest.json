@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/dvirtayeb-github-.io/static/css/main.73e511bf.chunk.css",
-    "main.js": "/dvirtayeb-github-.io/static/js/main.08932898.chunk.js",
-    "main.js.map": "/dvirtayeb-github-.io/static/js/main.08932898.chunk.js.map",
+    "main.css": "/dvirtayeb-github-.io/static/css/main.4e790880.chunk.css",
+    "main.js": "/dvirtayeb-github-.io/static/js/main.5ae2bebe.chunk.js",
+    "main.js.map": "/dvirtayeb-github-.io/static/js/main.5ae2bebe.chunk.js.map",
     "runtime-main.js": "/dvirtayeb-github-.io/static/js/runtime-main.4d60392c.js",
     "runtime-main.js.map": "/dvirtayeb-github-.io/static/js/runtime-main.4d60392c.js.map",
-    "static/js/2.2fe59ff1.chunk.js": "/dvirtayeb-github-.io/static/js/2.2fe59ff1.chunk.js",
-    "static/js/2.2fe59ff1.chunk.js.map": "/dvirtayeb-github-.io/static/js/2.2fe59ff1.chunk.js.map",
+    "static/js/2.34cfb0a5.chunk.js": "/dvirtayeb-github-.io/static/js/2.34cfb0a5.chunk.js",
+    "static/js/2.34cfb0a5.chunk.js.map": "/dvirtayeb-github-.io/static/js/2.34cfb0a5.chunk.js.map",
     "static/js/3.f62768a5.chunk.js": "/dvirtayeb-github-.io/static/js/3.f62768a5.chunk.js",
     "static/js/3.f62768a5.chunk.js.map": "/dvirtayeb-github-.io/static/js/3.f62768a5.chunk.js.map",
     "index.html": "/dvirtayeb-github-.io/index.html",
-    "static/css/main.73e511bf.chunk.css.map": "/dvirtayeb-github-.io/static/css/main.73e511bf.chunk.css.map",
-    "static/js/2.2fe59ff1.chunk.js.LICENSE.txt": "/dvirtayeb-github-.io/static/js/2.2fe59ff1.chunk.js.LICENSE.txt",
+    "static/css/main.4e790880.chunk.css.map": "/dvirtayeb-github-.io/static/css/main.4e790880.chunk.css.map",
+    "static/js/2.34cfb0a5.chunk.js.LICENSE.txt": "/dvirtayeb-github-.io/static/js/2.34cfb0a5.chunk.js.LICENSE.txt",
     "static/media/1.1.250ec430.png": "/dvirtayeb-github-.io/static/media/1.1.250ec430.png",
     "static/media/1.2.dee221f6.png": "/dvirtayeb-github-.io/static/media/1.2.dee221f6.png",
     "static/media/2.710dac23.png": "/dvirtayeb-github-.io/static/media/2.710dac23.png",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4d60392c.js",
-    "static/js/2.2fe59ff1.chunk.js",
-    "static/css/main.73e511bf.chunk.css",
-    "static/js/main.08932898.chunk.js"
+    "static/js/2.34cfb0a5.chunk.js",
+    "static/css/main.4e790880.chunk.css",
+    "static/js/main.5ae2bebe.chunk.js"
   ]
 }
