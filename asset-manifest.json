@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/dvirtayeb-github-.io/static/css/main.50409376.chunk.css",
-    "main.js": "/dvirtayeb-github-.io/static/js/main.6077451b.chunk.js",
-    "main.js.map": "/dvirtayeb-github-.io/static/js/main.6077451b.chunk.js.map",
+    "main.css": "/dvirtayeb-github-.io/static/css/main.b401290e.chunk.css",
+    "main.js": "/dvirtayeb-github-.io/static/js/main.6157a0e2.chunk.js",
+    "main.js.map": "/dvirtayeb-github-.io/static/js/main.6157a0e2.chunk.js.map",
     "runtime-main.js": "/dvirtayeb-github-.io/static/js/runtime-main.4d60392c.js",
     "runtime-main.js.map": "/dvirtayeb-github-.io/static/js/runtime-main.4d60392c.js.map",
     "static/js/2.a62c2276.chunk.js": "/dvirtayeb-github-.io/static/js/2.a62c2276.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.f62768a5.chunk.js": "/dvirtayeb-github-.io/static/js/3.f62768a5.chunk.js",
     "static/js/3.f62768a5.chunk.js.map": "/dvirtayeb-github-.io/static/js/3.f62768a5.chunk.js.map",
     "index.html": "/dvirtayeb-github-.io/index.html",
-    "static/css/main.50409376.chunk.css.map": "/dvirtayeb-github-.io/static/css/main.50409376.chunk.css.map",
+    "static/css/main.b401290e.chunk.css.map": "/dvirtayeb-github-.io/static/css/main.b401290e.chunk.css.map",
     "static/js/2.a62c2276.chunk.js.LICENSE.txt": "/dvirtayeb-github-.io/static/js/2.a62c2276.chunk.js.LICENSE.txt",
     "static/media/1.1.250ec430.png": "/dvirtayeb-github-.io/static/media/1.1.250ec430.png",
     "static/media/1.2.dee221f6.png": "/dvirtayeb-github-.io/static/media/1.2.dee221f6.png",
@@ -18,13 +18,14 @@
     "static/media/3.0edd09f1.png": "/dvirtayeb-github-.io/static/media/3.0edd09f1.png",
     "static/media/4.08e0ef3d.png": "/dvirtayeb-github-.io/static/media/4.08e0ef3d.png",
     "static/media/example_tips3.14420e99.png": "/dvirtayeb-github-.io/static/media/example_tips3.14420e99.png",
+    "static/media/header.3c537d85.jpg": "/dvirtayeb-github-.io/static/media/header.3c537d85.jpg",
     "static/media/logo_Jems.32f6ff45.png": "/dvirtayeb-github-.io/static/media/logo_Jems.32f6ff45.png",
     "static/media/management.b425c912.jpg": "/dvirtayeb-github-.io/static/media/management.b425c912.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4d60392c.js",
     "static/js/2.a62c2276.chunk.js",
-    "static/css/main.50409376.chunk.css",
-    "static/js/main.6077451b.chunk.js"
+    "static/css/main.b401290e.chunk.css",
+    "static/js/main.6157a0e2.chunk.js"
   ]
 }
