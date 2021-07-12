@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/dvirtayeb-github-.io/static/css/main.476e31e5.chunk.css",
-    "main.js": "/dvirtayeb-github-.io/static/js/main.2787810e.chunk.js",
-    "main.js.map": "/dvirtayeb-github-.io/static/js/main.2787810e.chunk.js.map",
-    "runtime-main.js": "/dvirtayeb-github-.io/static/js/runtime-main.4d60392c.js",
-    "runtime-main.js.map": "/dvirtayeb-github-.io/static/js/runtime-main.4d60392c.js.map",
-    "static/js/2.4d622fca.chunk.js": "/dvirtayeb-github-.io/static/js/2.4d622fca.chunk.js",
-    "static/js/2.4d622fca.chunk.js.map": "/dvirtayeb-github-.io/static/js/2.4d622fca.chunk.js.map",
-    "static/js/3.f62768a5.chunk.js": "/dvirtayeb-github-.io/static/js/3.f62768a5.chunk.js",
-    "static/js/3.f62768a5.chunk.js.map": "/dvirtayeb-github-.io/static/js/3.f62768a5.chunk.js.map",
+    "main.css": "/dvirtayeb-github-.io/static/css/main.75fac9b2.chunk.css",
+    "main.js": "/dvirtayeb-github-.io/static/js/main.8972c696.chunk.js",
+    "main.js.map": "/dvirtayeb-github-.io/static/js/main.8972c696.chunk.js.map",
+    "runtime-main.js": "/dvirtayeb-github-.io/static/js/runtime-main.6ad88855.js",
+    "runtime-main.js.map": "/dvirtayeb-github-.io/static/js/runtime-main.6ad88855.js.map",
+    "static/js/2.9526b78d.chunk.js": "/dvirtayeb-github-.io/static/js/2.9526b78d.chunk.js",
+    "static/js/2.9526b78d.chunk.js.map": "/dvirtayeb-github-.io/static/js/2.9526b78d.chunk.js.map",
+    "static/js/3.f96ec4df.chunk.js": "/dvirtayeb-github-.io/static/js/3.f96ec4df.chunk.js",
+    "static/js/3.f96ec4df.chunk.js.map": "/dvirtayeb-github-.io/static/js/3.f96ec4df.chunk.js.map",
     "index.html": "/dvirtayeb-github-.io/index.html",
-    "static/css/main.476e31e5.chunk.css.map": "/dvirtayeb-github-.io/static/css/main.476e31e5.chunk.css.map",
-    "static/js/2.4d622fca.chunk.js.LICENSE.txt": "/dvirtayeb-github-.io/static/js/2.4d622fca.chunk.js.LICENSE.txt",
+    "static/css/main.75fac9b2.chunk.css.map": "/dvirtayeb-github-.io/static/css/main.75fac9b2.chunk.css.map",
+    "static/js/2.9526b78d.chunk.js.LICENSE.txt": "/dvirtayeb-github-.io/static/js/2.9526b78d.chunk.js.LICENSE.txt",
     "static/media/1.1.250ec430.png": "/dvirtayeb-github-.io/static/media/1.1.250ec430.png",
     "static/media/1.2.dee221f6.png": "/dvirtayeb-github-.io/static/media/1.2.dee221f6.png",
     "static/media/2.710dac23.png": "/dvirtayeb-github-.io/static/media/2.710dac23.png",
@@ -23,9 +23,9 @@
     "static/media/management.b425c912.jpg": "/dvirtayeb-github-.io/static/media/management.b425c912.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d60392c.js",
-    "static/js/2.4d622fca.chunk.js",
-    "static/css/main.476e31e5.chunk.css",
-    "static/js/main.2787810e.chunk.js"
+    "static/js/runtime-main.6ad88855.js",
+    "static/js/2.9526b78d.chunk.js",
+    "static/css/main.75fac9b2.chunk.css",
+    "static/js/main.8972c696.chunk.js"
   ]
 }
