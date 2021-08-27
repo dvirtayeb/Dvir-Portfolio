@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Dvir-Portfolio/static/css/main.7eaf6e35.chunk.css",
-    "main.js": "/Dvir-Portfolio/static/js/main.85b82e12.chunk.js",
-    "main.js.map": "/Dvir-Portfolio/static/js/main.85b82e12.chunk.js.map",
-    "runtime-main.js": "/Dvir-Portfolio/static/js/runtime-main.03e0ce28.js",
-    "runtime-main.js.map": "/Dvir-Portfolio/static/js/runtime-main.03e0ce28.js.map",
-    "static/js/2.bc83b14d.chunk.js": "/Dvir-Portfolio/static/js/2.bc83b14d.chunk.js",
-    "static/js/2.bc83b14d.chunk.js.map": "/Dvir-Portfolio/static/js/2.bc83b14d.chunk.js.map",
-    "static/js/3.f62768a5.chunk.js": "/Dvir-Portfolio/static/js/3.f62768a5.chunk.js",
-    "static/js/3.f62768a5.chunk.js.map": "/Dvir-Portfolio/static/js/3.f62768a5.chunk.js.map",
+    "main.css": "/Dvir-Portfolio/static/css/main.9962547d.chunk.css",
+    "main.js": "/Dvir-Portfolio/static/js/main.71101aaf.chunk.js",
+    "main.js.map": "/Dvir-Portfolio/static/js/main.71101aaf.chunk.js.map",
+    "runtime-main.js": "/Dvir-Portfolio/static/js/runtime-main.2d82dd8a.js",
+    "runtime-main.js.map": "/Dvir-Portfolio/static/js/runtime-main.2d82dd8a.js.map",
+    "static/js/2.949f58fd.chunk.js": "/Dvir-Portfolio/static/js/2.949f58fd.chunk.js",
+    "static/js/2.949f58fd.chunk.js.map": "/Dvir-Portfolio/static/js/2.949f58fd.chunk.js.map",
+    "static/js/3.6eddc9ea.chunk.js": "/Dvir-Portfolio/static/js/3.6eddc9ea.chunk.js",
+    "static/js/3.6eddc9ea.chunk.js.map": "/Dvir-Portfolio/static/js/3.6eddc9ea.chunk.js.map",
     "index.html": "/Dvir-Portfolio/index.html",
-    "static/css/main.7eaf6e35.chunk.css.map": "/Dvir-Portfolio/static/css/main.7eaf6e35.chunk.css.map",
-    "static/js/2.bc83b14d.chunk.js.LICENSE.txt": "/Dvir-Portfolio/static/js/2.bc83b14d.chunk.js.LICENSE.txt",
+    "static/css/main.9962547d.chunk.css.map": "/Dvir-Portfolio/static/css/main.9962547d.chunk.css.map",
+    "static/js/2.949f58fd.chunk.js.LICENSE.txt": "/Dvir-Portfolio/static/js/2.949f58fd.chunk.js.LICENSE.txt",
     "static/media/1.1.250ec430.png": "/Dvir-Portfolio/static/media/1.1.250ec430.png",
     "static/media/1.2.dee221f6.png": "/Dvir-Portfolio/static/media/1.2.dee221f6.png",
     "static/media/2.710dac23.png": "/Dvir-Portfolio/static/media/2.710dac23.png",
@@ -24,9 +24,9 @@
     "static/media/management.b425c912.jpg": "/Dvir-Portfolio/static/media/management.b425c912.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.03e0ce28.js",
-    "static/js/2.bc83b14d.chunk.js",
-    "static/css/main.7eaf6e35.chunk.css",
-    "static/js/main.85b82e12.chunk.js"
+    "static/js/runtime-main.2d82dd8a.js",
+    "static/js/2.949f58fd.chunk.js",
+    "static/css/main.9962547d.chunk.css",
+    "static/js/main.71101aaf.chunk.js"
   ]
 }
