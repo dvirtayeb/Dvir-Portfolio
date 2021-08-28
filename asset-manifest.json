@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Dvir-Portfolio/static/css/main.11e0cc57.chunk.css",
+    "main.css": "/Dvir-Portfolio/static/css/main.1c6069cf.chunk.css",
     "main.js": "/Dvir-Portfolio/static/js/main.053140d4.chunk.js",
     "main.js.map": "/Dvir-Portfolio/static/js/main.053140d4.chunk.js.map",
     "runtime-main.js": "/Dvir-Portfolio/static/js/runtime-main.2d82dd8a.js",
@@ -10,7 +10,7 @@
     "static/js/3.6eddc9ea.chunk.js": "/Dvir-Portfolio/static/js/3.6eddc9ea.chunk.js",
     "static/js/3.6eddc9ea.chunk.js.map": "/Dvir-Portfolio/static/js/3.6eddc9ea.chunk.js.map",
     "index.html": "/Dvir-Portfolio/index.html",
-    "static/css/main.11e0cc57.chunk.css.map": "/Dvir-Portfolio/static/css/main.11e0cc57.chunk.css.map",
+    "static/css/main.1c6069cf.chunk.css.map": "/Dvir-Portfolio/static/css/main.1c6069cf.chunk.css.map",
     "static/js/2.949f58fd.chunk.js.LICENSE.txt": "/Dvir-Portfolio/static/js/2.949f58fd.chunk.js.LICENSE.txt",
     "static/media/1.1.250ec430.png": "/Dvir-Portfolio/static/media/1.1.250ec430.png",
     "static/media/1.2.dee221f6.png": "/Dvir-Portfolio/static/media/1.2.dee221f6.png",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.2d82dd8a.js",
     "static/js/2.949f58fd.chunk.js",
-    "static/css/main.11e0cc57.chunk.css",
+    "static/css/main.1c6069cf.chunk.css",
     "static/js/main.053140d4.chunk.js"
   ]
 }
